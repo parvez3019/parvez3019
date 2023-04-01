@@ -6,8 +6,6 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects and blockchain technologies.
 - ⚡ Fun fact: I also write jokes professionally.
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Parvez Spotify Playing" width="350" />](https://open.spotify.com/track/3bLZQ1ewQ0CRijxiSZYeqE?si=44a391ca7d414672)
 
 ### Connect with me:
 
