@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hello, I'm Parvez Hassan, a polyglot backend engineer!
 
-<!--
-**parvez3019/parvez3019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with OLX Group as a Lead Engineer.
+- 🌱 Want to learn, unlearn, grow, build and lead.
+- 👯 I’m looking to collaborate with others having same interest as of mine.
+- 🥅 2023 Goals: Contribute more to Open Source projects and blockchain technologies.
+- ⚡ Fun fact: I also write jokes professionally.
 
-Here are some ideas to get you started:
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Parvez Spotify Playing" width="350" />](https://open.spotify.com/track/3bLZQ1ewQ0CRijxiSZYeqE?si=44a391ca7d414672)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<br />
+
+---
+
+[instagram]: https://www.instagram.com/_parvezhassan/
+[linkedin]: https://www.linkedin.com/in/parvezhassan/
+[twitter]: https://twitter.com/_parvezhassan
+[youtube]: https://www.youtube.com/channel/UC-FU1x3FDCKssUChTC0XVZA
+
+![Parvez's github stats](https://github-readme-stats.vercel.app/api?username=parvez3019&count_private=true&show_icons=true&theme=radical)
