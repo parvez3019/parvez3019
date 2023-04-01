@@ -22,4 +22,4 @@
 [twitter]: https://twitter.com/_parvezhassan
 [youtube]: https://www.youtube.com/channel/UC-FU1x3FDCKssUChTC0XVZA
 
-![Parvez's github stats](https://github-readme-stats.vercel.app/api?username=parvez3019&count_private=true&show_icons=true&theme=radical)
+<!-- ![Parvez's github stats](https://github-readme-stats.vercel.app/api?username=parvez3019&count_private=true&show_icons=true&theme=radical) -->
