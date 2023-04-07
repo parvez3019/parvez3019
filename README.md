@@ -4,7 +4,7 @@
 - 🌱 Want to learn, unlearn, grow, build and lead.
 - 👯 I’m looking to collaborate with others having same interest as of mine.
 - 🥅 2023 Goals: Contribute more to Open Source projects and blockchain technologies.
-- ⚡ Fun fact: I also write jokes professionally.
+- ⚡ Fun fact: I write clean code and make dirty jokes.
 
 
 ### Connect with me:
