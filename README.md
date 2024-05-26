@@ -6,6 +6,9 @@
 - 👯 I’m looking to collaborate with others having same interest as of mine.
 - ⚡ Fun fact: I write clean code and clean jokes.
 
+### Show some ❤️ by starring some of the repositories!
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=parvez3019&show_icons=true&hide_border=true)
 
 ### Connect with me:
 
@@ -21,5 +24,3 @@
 [linkedin]: https://www.linkedin.com/in/parvezhassan/
 [twitter]: https://twitter.com/_parvezhassan
 [youtube]: https://www.youtube.com/channel/UC-FU1x3FDCKssUChTC0XVZA
-
-<!-- ![Parvez's github stats](https://github-readme-stats.vercel.app/api?username=parvez3019&count_private=true&show_icons=true&theme=radical) -->
