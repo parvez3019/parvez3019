@@ -1,9 +1,9 @@
 ## Hello, I'm Parvez Hassan, a polyglot backend engineer!
 
-- 🔭 I’m currently working with OLX Group as a Lead Engineer.
+- 🔭 I’m currently working with OLX Group as a Backend Architect.
 - 💪 Polygot Backend Engineer with expertise in Go, Java & AWS.
 - 🌱 Want to learn, unlearn, grow, build and lead.
-- 👯 I’m looking to collaborate with others having same interest as of mine.
+- 👯 I’m looking to collaborate with others having the same interests as mine.
 - ⚡ Fun fact: I write clean code and clean jokes.
 
 ### Show some ❤️ by starring some of the repositories!
