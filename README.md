@@ -1,5 +1,3 @@
-## Hello, I'm Parvez Hassan, a polyglot backend engineer!
-
 ### Show some ❤️ by starring some of the repositories!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=parvez3019&show_icons=true&hide_border=true)
